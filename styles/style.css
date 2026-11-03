@@ -1,4 +1,4 @@
-.hoverable div
+.hoverable
 {
 background-color: green;
 }
@@ -14,4 +14,32 @@ color: purple;
 .article p
 {
 border: 2px solid red;
+}
+ul li
+{
+background-color: yellow;
+}
+.box-container .box
+{
+color: black;
+}
+.green
+{
+ background-color: lightgreen;
+}
+
+li:first-child
+{
+font-style: italic;
+}
+
+li:last-child
+{
+font-weight: bold;
+}
+
+a:hover
+{
+    color: red;
+    text-underline-offset: inherit;
 }
