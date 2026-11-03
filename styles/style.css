@@ -1,0 +1,17 @@
+.hoverable div
+{
+background-color: green;
+}
+li:nth-child(2)
+{
+    color: purple;
+}
+h2
+{
+font-family: verdana, sans-serif;
+color: purple;
+}
+.article p
+{
+border: 2px solid red;
+}
